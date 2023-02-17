@@ -1,2 +1,2 @@
 # mdn-css-web-fonts
-MDN Learning area for CSS Web Fonts
+MDN Learning area assesstment for CSS Web Fonts
